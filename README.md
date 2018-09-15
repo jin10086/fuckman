@@ -10,8 +10,8 @@
 
 ## 对项目感兴趣？
 
-- 你可以提交新的平台
-- 在issue内看看有没有新的平台，然后把代码写了...(写之前记得先在issue内说下哦，以免重复)
+- [你可以提交新的平台](https://github.com/jin10086/slagManMonitor/issues/new)
+- [查看issue](https://github.com/jin10086/slagManMonitor/issues),可以帮忙添加新的平台监测代码(写之前记得先在issue内说下哦，以免重复)
 
 ## buy me a coffee
 
