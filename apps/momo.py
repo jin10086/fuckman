@@ -1,6 +1,6 @@
 import requests
 
-from base import logger
+from .base import logger
 
 
 class Momo:
