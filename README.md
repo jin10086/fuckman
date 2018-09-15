@@ -19,5 +19,10 @@
 
 [buy-me-a-coffee](https://jin10086.github.io/buy-me-a-coffee/)
 
+## 那么多软件从哪来的?
+
+看下图水印...
+
+![](media/apps.jpeg)
 
 
